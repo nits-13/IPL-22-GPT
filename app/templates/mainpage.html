@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<hmtl lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>IPL22-GPT</title>
+        <link rel="stylesheet" href="/static/mainpage_style.css">
+    </head>
+    <body>
+        <div class="main">
+            <div class="header">
+                <div class="side-nav">
+                    <div class="logo">
+                        <img src="/static/th.jpeg" class="logo-img">
+                        <div> 
+                            <h1>IPL22-GPT</h1>
+                        </div>
+                    </div>
+                    <ul>
+                        <li><img src="/static/logout_logo.png"><a href="/">Logout</a></li>
+                        <li><img src="/static/user_logo.png"><a href="/">User</a></li>
+                    </ul>
+                </div>
+                <form class="query-form" action="/mainpage" method="POST">
+                    <input type="text" name="query" placeholder="Ask a query" value="{{ query }}">
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+            <div class="text">
+                <label>Here's the answer to your query:</label>
+            </div>
+            <div class="answer">
+                <textarea name="answer" readonly>{{ answer|safe }}</textarea>
+            </div>
+        </div>
+    </body>
+</html>
+
+
