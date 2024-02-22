@@ -1,0 +1,49 @@
+{
+    "Won years": [
+        2022
+    ],
+    "Coach": "Ashish Nehra",
+    "Captain": "Hardik Pandya ",
+    "Players":
+        {
+            "Hardik Pandya ": [
+                "All rounder","India", 16,487,8
+            ],
+            "Abhinav Manohar": [
+                "All rounder", "India", 9,108,0
+            ],                                                                            
+            "Shubman Gill": [
+                "Batter", "India", 17,483,0
+            ],
+            "Rahul Tewatia": [
+                "Bowler", "India", 17,217,0
+            ],
+            "Mohammad Shami": [
+                "Bowler", "India",17,0,20
+            ],
+            "Vijay Shankar": [
+                "All rounder ","India", 5,19,0
+            ],
+            "Darshan Nalkande": [
+                "All rounder", "India", 0,0,0
+            ],
+            "Lockie Ferguson": [
+                "Bowler", "New Zealand",14,5,12
+            ],
+            "Sai Sudharsan": [
+                "All rounder", "India", 5,145,0
+            ],
+            "David Miller": [
+                "Batter ", "South Africa", 17,481,0
+            ],
+            "Rashid Khan": [
+                "Bowler", "Afghanistan", 17,91,19
+            ],
+            "Matthew Wade": [
+                "Batter", "Australia", 11,157,0
+            ],
+            "Varun Aaron": [
+                "Bowler ", "India", 3,0,2
+            ]
+            }
+    }

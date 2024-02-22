@@ -1,0 +1,45 @@
+{
+    "Won years": [
+        
+    ],
+    "Coach": "Trevor Bayliss",
+    "Captain": "Mayank Agarwal",
+    "Players":
+        {
+            "Mayank Agarwal": [
+                "Batter", "India", 14,196,0
+            ],
+            "Liam Livingstone": [
+                "Batter", "England", 15,437,6
+            ],
+            "Rahul Chahar": [
+                "Bowler", " India", 14,77,14
+            ],
+            "Shahrukh Khan": [
+                "Batter", "India", 9,0,0
+            ],
+            "Harpreet Brar": [
+                "Bowler", "India",6,22,4
+            ],
+            "Raj Bawa": [
+                "All rounder","India", 3,11,0
+            ],
+            "Shikhar Dhawan": [
+                "Bowler", " India", 15,460,0
+            ],
+            "Bhanuka Rajapaksa": [
+                "Batte", "Sri Lanka", 10,206,0
+            ],
+            "Odean Smith": [
+                "All rounder", " West India", 7,51,6
+            ],
+            "Sandeep Sharma": [
+                "Bowler", " India", 6,0,2
+            ],
+            "Arshdeep Singh": [
+                "Bowler", " India", 15,21,10
+
+
+            ]
+            }
+    }

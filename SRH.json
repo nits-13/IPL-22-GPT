@@ -1,0 +1,49 @@
+{
+    "Won years": [
+        2016
+    ],
+    "Coach": "Brian Lara",
+    "Captain": "Kane Williamson",
+    "Players":
+        {
+            "Kane Williamson": [
+                "Batter", "New Zealand", 14,216,0
+            ],
+            "Washington Sundar": [
+                "All rounder", "India", 10, 101, 6
+            ],
+            "Abdul Samad": [
+                "Batter", "India", 3,4,0
+            ],
+            "Rahul Tripathi": [
+                "Batter", "India", 15, 413,0
+            ],
+            "Bhuvaneshwar Kumar": [
+                "Bowler", " India",15,24,12
+            ],
+            "Shashank Singh": [
+                "Batter","India", 10,69,0
+            ],
+            "Romario Shepherd": [
+                "all rounder", "West India", 4,58,3
+            ],
+            "Umran Malik": [
+                "Bowler", "India", 15,4,22
+            ],
+            "Marco Jansen": [
+                "All rounder", "South Africa", 8,0,7
+            ],
+            "Abishek Sharma": [
+                "All rounder", "India", 15, 426,0
+            ],
+            "Nicholas Pooran": [
+                 ["Wicket keeper", "Batter"], "West India", 15, 306,0
+            ],
+            "T.Natarajan": [
+                "Bowler", "India", 12, 0,18
+            ],
+            "Aiden Markram": [
+                "Batter", "South Africa", 9,381,1
+            ]
+            }
+    }

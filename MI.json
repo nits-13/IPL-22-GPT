@@ -1,0 +1,58 @@
+{
+    "Won years": [
+        2013,2015,2017,2019,2020
+    ],
+    "Coach": "Mark Boucher",
+    "Captain": "Rohit Sharma",
+    "Players":
+        {
+            "Anmolpreet Singh": [
+                "Batter", "India", 3, 13, 0
+            ],
+            "Tim David": [
+                "Batter", "Singapore", 9, 186, 0
+            ],
+            "Ramandeep Singh": [
+                "Batter", "India", 5, 45, 6
+            ],
+            "Ishan Kishan": [
+                ["Wicket keeper", "Batter"], "India", 15, 418, 0
+            ],
+            "Kieron Pollard": [
+                "All rounder", "West India",12,144,4
+            ],
+            "Tymal Mills": [
+                "Bowler","England", 6,0,6
+            ],
+            "Jaydev Unadkat": [
+                "Bowler", "India", 5,59,6
+            ],
+            "Tilak Varma": [
+                "Batter", "India", 15,397,0
+            ],
+            "Dewald Brevis": [
+                "Batter", "South Africa", 7, 161, 1
+            ],
+            "Rohit Sharma": [
+                "Batter", "India", 15, 268, 0
+            ],
+            "Jasprit Bumrah": [
+                "Bowler", "India", 15, 0, 15
+            ],
+            "Daniel Sams": [
+                "All rounder", "Australia", 12, 38, 13
+            ],
+            "Suryakumar Yadav": [
+                "Batter", "India", 8,303,0
+            ],
+            "Basil Thampi": [
+                "Bowler", "India", 6,0,5
+            ],
+            "Murugan Ashwin": [
+                "Bowler", "India",9,12,9
+            ],
+            "Ramandeep Singh ": [
+                "Batter", "India", 5,45,6
+            ]
+            }
+    }

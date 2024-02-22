@@ -1,0 +1,55 @@
+{
+    "Won years": [
+        
+    ],
+    "Coach": "Andy Flower",
+    "Captain": "KL.Rahul",
+    "Players":
+        {
+            "KL.Rahul": [
+                "Batter", "India", 15, 576, 0
+            ],
+            "Deepak Hooda": [
+                "all rounder", "India", 15, 438, 1
+            ],                                                                            
+            "Ravi Bishnoi": [
+                "Bowler", "India", 14, 0, 11
+            ],
+            "Avesh Khan": [
+                "Bowler", "India", 13, 22, 16
+            ],
+            "Marcus Stoinis": [
+                "All rounder", "Australia",11,156,4
+            ],
+            "Evin Lewis": [
+                "Batter ","West India", 6,18,0
+            ],
+            "Mohsin Khan": [
+                "Bowler", "India", 0,0,0
+            ],
+            "Krishnappa Gowtham": [
+                "All rounder", "India", 6,0,5
+            ],
+            "Quinton de Kock": [
+                ["Wicket keeper", "Batter"], "South Africa", 15, 447, 0
+            ],
+            "krunal Pandya": [
+                "All rounder", "India", 14, 183, 10
+            ],
+            "Ayush Badoni": [
+                "All rounder", "India", 13,142, 2
+            ],
+            "Dushmantha Chameera": [
+                "Bowler", "Sri Lanka", 12,43,9
+            ],
+            "Manish Pandey": [
+                "Batter", "India", 6,83,0
+            ],
+            "Andrew Tye": [
+                "Bowler", "Australia", 2,0,0
+            ],
+            "Jason Holder": [
+                "All rounder", " West India",12,58,14
+            ]
+            }
+    }

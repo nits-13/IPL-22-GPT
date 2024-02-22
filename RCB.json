@@ -1,0 +1,52 @@
+{
+    "Won years": [
+        
+    ],
+    "Coach": "Sanjay Bangar",
+    "Captain": "Faf du Plessis",
+    "Players":
+        {
+            "Faf du Plessis": [
+                "Batter", "South Africa", 18,468,0
+            ],
+            "Suyash Prabhudessai": [
+                "Batter", "India", 6,67,0
+            ],
+            "Virat Kholi": [
+                "Batter", "India",18,341,0
+            ],
+            "Wanindu Hasaranga": [
+                "All rounder", "Sri lanka", 18,38,26
+            ],
+            "Mohammed Siraj": [
+                "Bowler", " India",17,30,9
+            ],
+            "Josh Hazelwood": [
+                "Bowler","Australia", 12,18,20
+            ],
+            "Sherfane Rutherford": [
+                "Batter", "West India", 5,33,0
+            ],
+            "Akash Deep": [
+                "Bowler", "India", 7,0,5
+            ],
+            "Shahbaz Ahmed": [
+                "Bowler", "India",0,0,0
+            ],
+            "Dinesh Karthik": [
+                 ["Wicket keeper", "Batter"], "India", 18,330,0
+            ],
+            "Harshal Patel": [
+                 "Bowler", " India", 17, 43,19
+            ],
+            "Glenn Maxwell": [
+                "All rounder", "Australia", 13, 301,6
+            ],
+            "David Willey": [
+                "All rounder", "England",6,18,1
+            ],
+            "Anuj Rawat": [
+                "Batter", "India",0,0,0
+            ]
+            }
+    }

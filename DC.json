@@ -1,0 +1,55 @@
+{
+    "Won years": [
+        
+    ],
+    "Coach": "Ricky Ponting",
+    "Captain": "Rishabh Pant",
+    "Players":
+        {
+            "Rishabh Pant": [
+                ["Wicket keeper", "Batter"], "India", 15,340,0
+            ],
+            "Shardul Thakur": [
+                "Bowler", "India", 15, 120,15
+            ],
+            "Akshar Patel": [
+                "All rounder", "India", 14,182,6
+            ],
+            "David Warner": [
+                "Batter", "Australia", 12, 432,0
+            ],
+            "Khaleel Ahmed": [
+                "Bowler", " India",11,0,16
+            ],
+            "Sarfaraz Khan": [
+                "Batter","India", 6,91,0
+            ],
+            "Mandeep Singh": [
+                "Batter", " India", 4,18,0
+            ],
+            "Tim Seifert": [
+                "Wicket Keeper", "Batter", 3,24,0
+            ],
+            "Rovman Powell": [
+                "Batter", "West India", 15,250,0
+            ],
+            "Kuldeep Yadav": [
+                "Bowler", "India", 15,48,21
+            ],
+            "Lalit Yadav": [
+                 "all rounder", " India", 13,161,4
+            ],
+            "Prithvi Shaw": [
+                "Batter", "India", 11,282,0
+            ],
+            "Mustafizur Rahman": [
+                "Bowler", "Bangladesh", 8,3,8
+            ],
+            "Anrich Nortje": [
+                "Bowler", "South Africa",6,1,9
+            ],
+            "Kamlesh Nagarkoti": [
+                "Bowler", "India", 4,0,0
+            ]
+            }
+    }

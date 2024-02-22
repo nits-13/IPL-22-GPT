@@ -1,0 +1,52 @@
+{
+    "Won years": [
+        2008
+    ],
+    "Coach": "Kumar Sangakkara",
+    "Captain": "Sanju Samson ",
+    "Players":
+        {
+            "Sanju Samson ": [
+                ["Wicket keeper", "Batter"],"India", 18, 458, 0
+            ],
+            "Kuldeep Sen": [
+                "Bowler", "India", 7,0, 8
+            ],                                                                            
+            "Devdutt Padikkal": [
+                "Batter", "India", 18,376,0
+            ],
+            "Prasidh Krishna": [
+                "Bowler", "India", 18, 6, 19
+            ],
+            "Trent Boult": [
+                "Bowler", "New Zealand",17,40,16
+            ],
+            "Yashasvi Jaiswal": [
+                "Batter ","India", 11,258,0
+            ],
+            "Navdeep Saini": [
+                "Bowler", "India", 2,2,3
+            ],
+            "Riyan Parag": [
+                "Batter", "India",18,183,1
+            ],
+            "Jos Buttler": [
+                "Batter", "England", 18,863,0
+            ],
+            "Ravichandran Ashwin": [
+                "All rounder", "India", 18,191,12
+            ],
+            "Yuzvendra Chahal": [
+                "Bowler", "India", 18,5, 27
+            ],
+            "Shimron Hetmyer": [
+                "Batter", "West India", 16,314,0
+            ],
+            "Rassie van der Dussen": [
+                "Batter", "South Africa", 3,22,0
+            ],
+            "Nathan Coulter-Nile": [
+                "Bowler", "Australia", 2,1,0
+            ]
+            }
+    }

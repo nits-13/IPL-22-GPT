@@ -1,0 +1,56 @@
+{
+    "Won years": [
+        2012,2014
+    ],
+    "Coach": "Chandrakant Pandit",
+    "Captain": "Shreyas Iyer",
+    "Players":
+        {
+            "Shreyas Iyer": [
+                "Batter", "India", 16,401,0
+            ],
+            "Nitish Rana": [
+                "Batter", "India", 16,361,0
+            ],
+            "Sunil Narine": [
+                "Bowler", "West India", 16,71,9
+            ],
+            "Varun Chakravarthy": [
+                "Bowler", "India", 13,12,6
+            ],
+            "Tim Southee": [
+                "Bowler", " New zealand",10,2,14
+            ],
+            "Rinku Singh": [
+                "Batter","India", 8,174,0
+            ],
+            "Shivam Mavi": [
+                "Bowler", " India", 7,3,5
+            ],
+            "Rasikh Salam": [
+                "Bowler", "India", 2,7,0
+            ],
+            "Venkatesh Iyer": [
+                "All rounder", "India", 14,182,0
+            ],
+            "Andre Russell": [
+                "All rounder", "West India", 16,335,17
+            ],
+            "Umesh Yadav": [
+                 "Bowler", "India", 14, 55,16
+            ],
+            "Sam Billinga": [
+                ["Wicket keeper", "Batter"], "England", 10, 169,0
+            ],
+            "Ajinkya Rahane": [
+                "Batter", "India", 9,133,0
+            ],
+            "Sheldon Jackson": [
+                "Batter", "India", 7,23,0
+            ],
+            "Patrick Cummins": [
+                "Bowler", "Australia", 5,63,7
+
+            ]
+            }
+    }

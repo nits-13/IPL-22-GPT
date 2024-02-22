@@ -1,0 +1,58 @@
+{
+    "Won years": [
+        2010, 2011, 2018, 2021
+    ],
+    "Coach": "Stephen Fleming",
+    "Captain": "Ravindra Jadeja",
+    "Players":
+        {
+            "Ravindra Jadeja": [
+                "All rounder", "India", 10, 99, 5
+            ],
+            "Ruturaj Gaikwad": [
+                "Batter", "India", 14, 367, 0
+            ],
+            "Mukesh Choudhary": [
+                "Bowler", "India", 12, 6, 16
+            ],
+            "Maheesh Theekshana": [
+                "Bowler", "Sri Lanka", 9, 7, 12
+            ],
+            "Tushar Deshpande": [
+                "Bowler", "India", 2, 0, 0
+            ],
+            "MS Dhoni": [
+                ["Wicket keeper", "Batter"], "India", 14, 216, 0
+            ],
+            "Ambati Rayudu": [
+                "Batter", "India", 13, 247, 0
+            ],
+            "Robin Uthappa": [
+                "Batter", "India", 12, 180, 0
+            ],
+            "Shivam Dube": [
+                "All rounder", "India", 11, 240, 0
+            ],
+            "Dwayne Bravo": [
+                "All rounder", "West Indies", 10, 22, 15
+            ],
+            "Moeen Ali": [
+                "All rounder", "England", 9, 209, 8
+            ],
+            "Devon Conway": [
+                "Batter", "New Zealand", 7, 252, 0
+            ],
+            "Mitchell Santner": [
+                "All rounder", "New Zealand", 7, 22, 4
+            ],
+            "Dwaine Pretorius": [
+                "All rounder", "South Africa", 5, 44, 4
+            ],
+            "Chris Jordan": [
+                "Bowler", "England", 4, 11, 2
+            ],
+            "Adam Milne": [
+                "Bowler", "New Zealand", 2, 0, 0
+            ]
+            }
+    }
